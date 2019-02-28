@@ -1,7 +1,8 @@
 ![Darknet Logo](http://pjreddie.com/media/files/darknet-black-small.png)
 
 # Darknet #
-Forked repository from (https://github.com/pjreddie/darknet)
+Forked repository from (https://github.com/pjreddie/darknet).
+
 Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computation.
 
 For more information see the [Darknet project website](http://pjreddie.com/darknet).
